@@ -1,0 +1,13 @@
+-------------------------------------------------
+	Ticket information of seat booked
+-------------------------------------------------
+
+	Row: A
+	Seat Number: 1
+	Price: £200
+
+-------------Passenger's Information-------------
+
+	Name of Passenger: seepthigan
+	Passenger's Surname: sivakanthan
+	Passenger's E-mail Id: seepthigan@gmail.com
